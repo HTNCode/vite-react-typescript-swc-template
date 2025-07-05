@@ -1,0 +1,13 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --main-color: #f3971a;
+  --sub-color: #313131;
+  --bg-color: #f3f3f3;
+  --text-color-white: #fff;
+  --text-color-black: #313131;
+  --border-color: #888888;
+}
